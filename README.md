@@ -1,8 +1,7 @@
-<div>
-            <img align="center" src="https://i.ibb.co/Dgb2fQc/Frame-2-2.png" alt="banner" style="max-width: 100%" />
+ <div>
+            <img align="center" src="https://i.ibb.co/JrBV6cR/Frame-3.png" alt="banner" />
 
             [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AF744&width=435&lines=Hi%2C+I'm+Md+Shamiul+Islam+Shakil;MERN+Stack+Developer)](https://git.io/typing-svg)
-            <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshakil20&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakil20" /> </p>
 
             - 💬 Ask me about **react**
 
