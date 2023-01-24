@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Shamiul Islam Shakil</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AF744&width=435&lines=Hi%2C+I'm+Md+Shamiul+Islam+Shakil;MERN+Stack+Developer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshakil20&label=Profile%20views&color=0e75b6&style=flat" alt="mdshakil20" /> </p>
 
 - 💬 Ask me about **react**
